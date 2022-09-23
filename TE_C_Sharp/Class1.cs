@@ -51,7 +51,7 @@ namespace TE_C_Sharp
             int[] num = new int[7] { 1, 2, 3, 4, 5, 6, 7 };
             int[] n = { 1, 2, 3 };
 
-            //for loop
+            //for loop statements
             for(int i = 0; i < numbers.Length; i++)
             {
                 Console.WriteLine(numbers[i]);
